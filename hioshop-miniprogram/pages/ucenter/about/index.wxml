@@ -1,0 +1,13 @@
+<view class="container">
+    <view class='about-wrap'>
+        <view class='title'>商城小店</view>
+        <view class='content'>
+            微信小程序商城
+        </view>
+        <view class="line"></view>
+        <view class="line"></view>
+        <view class='content'>
+            
+        </view>
+    </view>
+</view>
